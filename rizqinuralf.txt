@@ -1,3 +1,3 @@
 This is the first version of rizqinuralf Website Development
 1. Membuat design website
-2. Mencatat apa saja yang dibutuhkan dalam desain
+2. membuat flow
